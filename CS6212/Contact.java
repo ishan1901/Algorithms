@@ -1,5 +1,3 @@
-package com.example.Trie;
-
 public class Contact {
 	private String firstName;
 	private String lastName;
